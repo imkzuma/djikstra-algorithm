@@ -1,5 +1,5 @@
 # DJIKSTRA ALGORTIMA
-### " MENENTUKAN RUTE TERCEPAT DARI LUMINTANG MENUJU KAMPUS UNUD SUDIRMAN "
+### MENENTUKAN RUTE TERCEPAT DARI LUMINTANG MENUJU KAMPUS UNUD SUDIRMAN
 
 #### Program ini dibuat dengan tujuan untuk menyelesaikan Jurnal Matematika Diskrit dan juga untuk menambah wawasan tentang algoritma Graph
 
