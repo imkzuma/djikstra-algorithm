@@ -65,12 +65,13 @@ class graphDjikstra{
 			}cout << endl;
 			
 			const float Kilometer = float(MAX)/ 1000;
-			const float Est = (MAX / kecepatan) / 10;
+			const float Est = (MAX / kecepatan);
 			
 			cout << endl << "Tempat Awal : Lumintang" << endl;
 			cout << "Tempat Tujuan : Kampus Unud Sudirman" << endl;
 			cout << "Jarak Tempuh : " << Kilometer << " Km" << endl;
-			cout << "Estimasi Waktu Sampai : " << Est << " Menit" << endl;
+			cout << "Kecepatan : " << kecepatan << " Km/Jam" << endl;
+			cout << "Estimasi Waktu Sampai : " << Est / 10 << " Menit" << endl;
 		}
 		 
 		void dijkstra(const unsigned int graph[V][V], int src){
